@@ -14,7 +14,7 @@
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/f8800aa9-d5c5-4dbf-808f-f3b137c1284a
+https://github.com/user-attachments/assets/620492ef-6660-42be-af01-74b99b0e587f
 
 ---
 
@@ -141,3 +141,4 @@ app/src/main/
 - CardView 1.0.0 - Komponen kartu
 - Material 1.12.0 - Komponen UI (BottomSheet)
 - Kotlin Coroutines (LifecycleScope) - Manajemen thread untuk panggilan API
+
